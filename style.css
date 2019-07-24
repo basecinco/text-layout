@@ -1,0 +1,36 @@
+body {
+  background-color: #f4f6f6;
+}
+
+h1 {
+  color: #1c2938;
+  font-family: adelle-sans;
+  font-size: 33px;
+  line-height: 37px;
+}
+
+a {
+  color: #1c2938;
+  font-family: adelle-sans;
+  font-size: 21px;
+  font-weight: 600;
+  background-color: rgb(222, 250, 211);
+  text-decoration: none;
+}
+
+a:hover {
+background-color: rgb(172, 246, 153);
+}
+
+p {
+  color: #1c2938;
+  font-family: adobe-caslon-pro;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
